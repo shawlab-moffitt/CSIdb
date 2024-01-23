@@ -1,6 +1,6 @@
-* Preprocessing for CSIdb
+* Preprocessing for CSIdb *
 
-** Script for extracting junction from Recount3 
+** Script for extracting junction from Recount3 **
 
 ** Input 
 *** 1. Specify Output Directory
