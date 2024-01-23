@@ -1,4 +1,4 @@
-#  for CSIdb 
+# CSIdb 
 
 ## Reference Script for extracting junction from Recount3
 https://github.com/shawlab-moffitt/Splice-Junction-Filter-Workflow
