@@ -1,9 +1,7 @@
-# Preprocessing for CSIdb 
+#  for CSIdb 
 
-## Script for extracting junction from Recount3 **
-
-## Requirements
-
+## Reference Script for extracting junction from Recount3
+https://github.com/shawlab-moffitt/Splice-Junction-Filter-Workflow
 
 ## Input 
 ### 1. Specify Output Directory
