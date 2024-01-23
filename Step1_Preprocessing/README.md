@@ -1,4 +1,4 @@
-* Preprocessing for CSIdb *
+- Preprocessing for CSIdb 
 
 ** Script for extracting junction from Recount3 **
 
