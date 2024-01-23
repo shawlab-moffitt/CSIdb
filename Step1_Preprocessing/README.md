@@ -2,6 +2,9 @@
 
 ## Script for extracting junction from Recount3 **
 
+## Requirements
+
+
 ## Input 
 ### 1. Specify Output Directory
 ### 2. Specify the project name (from recount3)
