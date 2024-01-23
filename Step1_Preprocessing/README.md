@@ -10,8 +10,8 @@ https://github.com/shawlab-moffitt/Splice-Junction-Filter-Workflow
 ### 4. Min number of samples with the expression.
 
 User can visualize the study from https://jhubiostatistics.shinyapps.io/recount3-study-explorer/
-A GTEx and BM junction list can be used as a filter for tumor specific junction
-http://shawlab.science/shiny/GTEx_AMLBM_JunctionList/GTEx_AMLBM_JxnPresent_Vector.RData
+
+A GTEx and BM junction list can be used as a filter for tumor specific junction: http://shawlab.science/shiny/GTEx_AMLBM_JunctionList/GTEx_AMLBM_JxnPresent_Vector.RData
 
 
 ## Output 
